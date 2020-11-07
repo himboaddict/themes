@@ -3112,7 +3112,7 @@ pre {
   mask: none !important;
   -webkit-mask: none !important;
   fill-opacity: -.1 !important;
-  stroke-width: 3px;
+  stroke-width: 2px;
   transition: stroke 200ms ease-in-out;
 }
 
