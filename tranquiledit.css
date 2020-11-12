@@ -12,7 +12,7 @@
   .theme-dark,
   .appMount-3VJmYg,
   .theme-dark .theme-light {
-    --primary-color: #101012;
+    --primary-color: #101011;
     --secondary-color: #1E1E21;
     --tertiary-color: #232327;
     --quaternary-color: #19191b;
@@ -144,7 +144,7 @@
 .container-PNkimc,
 #app-mount .scroller-1JbKMe,
 #app-mount .perksModal-fSYqOq {
-  background-color: var(--primary-color) !important;
+  background-color: var(--quaternary-color);
 }
 
 .wrapper-2NJDcI,
