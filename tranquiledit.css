@@ -144,7 +144,7 @@
 .container-PNkimc,
 #app-mount .scroller-1JbKMe,
 #app-mount .perksModal-fSYqOq {
-  background-color: var(--primary-color)
+  background-color: var(--primary-color) !important;
 }
 
 .wrapper-2NJDcI,
